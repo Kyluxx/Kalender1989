@@ -1,4 +1,4 @@
-body {
+/*body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -37,4 +37,129 @@ body {
         h1 {
             text-align: center;
             margin: 20px 0;
-        }
+        }*/
+        
+/*body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6f2;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff80b3;
+    margin: 20px 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
+}
+
+.month {
+    background-color: #fff;
+    border: 2px solid #ff80b3;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    width: 250px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.month h2 {
+    color: #ff80b3;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead th {
+    background-color: #ffccde;
+    color: #fff;
+    padding: 8px;
+    border: 1px solid #ff80b3;
+    font-size: 16px;
+}
+
+tbody td {
+    padding: 8px;
+    border: 1px solid #ff80b3;
+    color: #ff80b3;
+    font-size: 14px;
+    text-align: center;
+}
+
+tbody td:hover {
+    background-color: #ffccde;
+    cursor: pointer;
+}
+*/
+/*
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6f2;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff80b3;
+    margin: 20px 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 10px;
+    padding: 10px;
+}
+
+.month {
+    background-color: #fff;
+    border: 2px solid #ff80b3;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.month h2 {
+    color: #ff80b3;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+thead th {
+    background-color: #ffccde;
+    color: #fff;
+    padding: 8px;
+    border: 1px solid #ff80b3;
+    font-size: 16px;
+}
+
+tbody td {
+    padding: 8px;
+    border: 1px solid #ff80b3;
+    color: #ff80b3;
+    font-size: 14px;
+    text-align: center;
+}
+
+tbody td:hover {
+    background-color: #ffccde;
+    cursor: pointer;
+}*/
